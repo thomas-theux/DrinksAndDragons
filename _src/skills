@@ -1,0 +1,63 @@
+Skills im Spiel benutzbar
+
+• Navigation Branch (Laufen) (Spezialskill ist hier mit dabei)
+❌   0 Dein Schrittzähler rechnet dir 50% mehr Schritte an
+❌   1 Jedes Mal wenn du eine 1 drehst, zieht es allen andern Spielern zwei Schritte ab (in der Gesamtzählung)
+❌   2 Der Navigations Ring wird um eine 7 und eine 8 erweitert
+❌   3 Der Navigations Ring dreht sich 50% langsamer
+❌   4 Der Navigations Ring hält sofort an, wenn du ihn stoppst
+
+• Wille (Saufen)
+❌   5 Bei jedem Gruppensaufen darfst du deine Schlücke an jemand anderen geben
+❌   6 Du darfst einen weniger trinken als angegeben, bekommst aber alle Schlücke angerechnet (steht dann auch dran: statt 2 steht dann 2-1)
+❌   7 Wenn du trinken musst, darfst du zusätzlich jemanden bestimmen, der einen mittrinken muss
+❌   8 Jeder Schluck bringt dir ab sofort doppelt so viel Erfahrung
+❌   9 Sobald du einen Eimer füllst, muss jemand (den du bestimmst) sein Glas exen
+
+• Segen Branch (Sternenstaub)
+❌   10 Du bekommst je nach Würfelzahl nochmal zusätzlich Sternenstaub (1 = 100, 6 = 600)
+❌   11 Du sammelst 30% mehr Sternenstaub
+❌   12 Sobald jemand Sternenstaub sammelt, bekommst du soviel wie er geteilt durch die Anzahl der Spieler (dustSammeln / playerCount)
+❌   13 Zusätzlich bekommst du einen Bonus abhängig von deiner Schrittzahl (dustSammeln + schrittZahl * 80)
+❌   14 Du zahlst ab sofort 20% weniger für alles
+
+• Schicksal Branch (Ring)
+❌   15 Dein Destiny Ring wird um 50% größer
+❌   16 Erweitert deinen Ring um positive Ereignisse
+❌   17 Die Chance, dass du den Ring 2 Mal drehen darfst, steigt von 0% auf 50%
+❌   18 Je mehr du getrunken hast, umso langsamer dreht sich der Ring (Schlücke = Reduzierung in %)
+❌   19 Du teilst alle negativen Ereignisse mit einem zufällig bestimmten Mitspieler
+
+
+
+// (#Abschnitt) + (#Zeile) = (#Zeile) + (#Abschnitt)
+
+
+
+Kosten überlegt und in Script eingesetzt
+
+• Fitness Branch (Laufen)
+✅   0 Wandersmann: Dein Schrittzähler rechnet dir 50% mehr Schritte an
+✅   1 Bei jedem Gruppensaufen darfst du deine Schlücke an jemand anderen geben
+✅   2 Du bekommst je nach Würfelzahl nochmal zusätzlich Sternenstaub (1 = 100, 6 = 600)
+✅   3 Dein Ring wird um 50% größer
+
+✅   4 Der Mit-rein-Zieher: Jedes Mal wenn du eine 1 drehst, zieht es allen andern Spielern einen Schritt ab (in der Gesamtzählung)
+✅   5 Du darfst einen weniger trinken als angegeben, bekommst aber alle Schlücke angerechnet (steht dann auch dran: statt 2 steht dann 2-1)
+✅   6 Du sammelst 30% mehr Sternenstaub
+❌   7 Du bekommst ein zweites Feld für den Spezialskill im Drehrad
+
+❌   8 Die Axt im Haus..: Das Rad wird gesplittet auf 1-3 und 4-6
+❌   9 Brüderlichkeit/Schwesterlichkeit: wenn du trinken musst, darfst du zusätzlich jemanden bestimmen, der einen mittrinken muss
+❌   10 Du zahlst ab sofort 20% weniger für alles
+❌   11 Die Chance, dass du den Ring 2 Mal drehen darfst, steigt von 0% auf 50%
+
+❌   12 .. erspart den Scheidungsrichter: Das Rad wird gesplittet auf 1-2 und 3-4 und 5-6
+❌   13 Jedes fünfte Mal saufen darfst du weiterleiten
+❌   14 Du bekommst jedes mal wenn jemand Sternenstaub sammelt, soviel wie er geteilt durch die Anzahl der Spieler (dustSammeln / playerCount)
+❌   15 Je mehr du getrunken hast, umso langsamer dreht sich der Zeiger (Schlücke = Reduzierung in %)
+
+❌   16 Der Herr des Rings: Das Rad wird ergänzt um 7-8 (insgesamt gibt es dann 1-2, 3-4, 5-6 und 7-8)
+❌   17 Du darfst ab sofort immer über das Getränk des nächsten Spielers entscheiden (sobald es leer ist)
+❌   18 Zusätzlich bekommst du einen Bonus abhängig von deiner Schrittzahl (dustSammeln + schrittZahl * 80)
+❌   19

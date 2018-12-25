@@ -1,0 +1,27 @@
+
+• Wenn man oft hohe Zahlen gewürfelt hat, gibt es mehr Punkte (Würfelzahl * 100 = Punkte)
+
+• Items können erworben werden und eingesetzt werden
+    --> z.B. Bananen die man legen kann, der nächste der drauf kommt rutscht ausdauer
+
+
+• Cards aufteilen in die einzelnen Kategorien
+    - Rules --> Checkmark Icon
+    - Physicals --> Atom Icon
+    - Mentals --> Brain Icon
+
+    - Team Decision --> Team Icon
+    - Would you rather --> Half-half Icon
+
+    - Stardust --> Stars Icon
+
+
+
+Nicht oder anders implementiert
+
+• Negativ: man muss nichts dafür tun, damit man die Münzen bekommt
+    --> beim Münzfeld ein Rad drehen, was entscheidet, wieviel man bekommt?
+    --> Minispiel am Ende jeder Runde?
+
+• nicht nur blaue und gelbe Felder, sondern auch rote (schlechte Felder)
+    --> zurückgesetzt werden, trinken, der Letzte 3 Felder vor, Münzen abgeben, nächster Wurf nur noch halb so viele Schritte

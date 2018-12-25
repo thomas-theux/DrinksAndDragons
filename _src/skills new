@@ -1,0 +1,40 @@
+Startskills
+• Dein Angriffs-Mulitplikator startet mit 1,3 (und kann trotzdem 5x erhöht werden)
+
+• Du sammelst 5% mehr Sternenstaub als die anderen
+• Für jeden Schluck bekommst du zusätzlich Sternenstaub (3% deines aktuellen Sternenstaubs)
+
+• Die Wahrscheinlichkeit den Schicksalsring zwei mal zu drehen liegt bei 25%
+• Du startest mit einem positiven Ereignis für den Schicksalsring (einen Schritt nach vorne)
+
+• Du bekommst für jeden Schritt 10% mehr Erfahrung
+
+
+
+Navigation
+✅ 00 Wenn du Letzter bist, ist die Wahrscheinlichkeit, dass du den Navigations Ring zwei Mal drehen darfst bei 50%
+✅ 01 Der Navigations-Ring wird um eine 7 und eine 8 erweitert
+✅ 02 Der Navigations-Ring hält sofort an, wenn du ihn stoppst
+
+Wille
+✅ 03 Jedes Mal wenn du eine 1 drehst, darfst du jemanden bestimmen, der einen trinken muss
+❌ 04 Wenn dich ein anderer Spieler überholt, ruft er FEHLT
+✅ 05 Sobald du einen Meter füllst, muss jemand (den du bestimmst) ein halbes Glas exen
+
+Segen
+✅ 06 Du bekommst je nach Würfelzahl nochmal zusätzlich Sternenstaub (1 = 10, 6 = 60)
+✅ 07 Jede Quest die du erledigst, gibt ab sofort zusätzlich zur Erfahrung Sternenstaub
+✅ 08 Sobald jemand Sternenstaub sammelt, bekommst du soviel wie er geteilt durch die Anzahl der Spieler (dustSammeln / playerCount)
+
+Schicksal
+✅ 09 Die Chance, dass du den Schicksals-Ring 2 Mal drehen darfst, steigt auf 50%
+✅ 10 Erweitert deinen Schicksals-Ring um zwei positive Ereignisse (Schluck verteilen & Geld bekommen)
+✅ 11 Je mehr du getrunken hast, umso langsamer dreht sich der Schicksals-Ring (Schlücke = Reduzierung in %)
+
+Weisheit
+✅ 12 Jeder Schritt gibt doppelt so viel Erfahrung
+✅ 13 Bei jedem Levelaufstieg, darfst du jemanden bestimmen, der einen trinken muss
+✅ 14 Bei jeder 6, die du hast, bekommst du zusätzlich 10% deiner aktuellen EXP
+
+Kampf
+❌ 15-19 Jedes Mal den Multiplikator um 0.3 erhöhen

@@ -1,0 +1,136 @@
+Felder
+✅ Stardust Felder raus --> mehr Quests
+✅ Kampf Felder reduzieren --> mehr Quests
+✅ Map kürzen, damit das Spiel schneller vorbei ist
+❌ Am Ende ist ein Checkpoint, man kann dann entweder weiter spielen (ins nächste Level) oder es ist vorbei
+❌ Einen finalen Kampf, dass es gerechtfertigt ist, dass man denn Angriffsskill braucht
+✅ Der Navigations Ring hält automatisch an
+✅ Den Ring langsamer drehen lassen – dadurch, dass man ihn eh nicht mehr beeinflussen kann macht es das angenehmer
+❌ Team Decisions und WYR zurückbringen
+
+Quests vereinfachen
+✅ "Annehmen" und "Ablehnen"
+✅ Danach Übersicht über was man bekommt
+❌ Bei der Übersicht dann die EXP und Stardust runterzählen und beim Spieler dazuzählen
+✅ Kurze Pause danach um das Ende des Zugs zu zeigen
+✅ Schicksalsring erst dann erwähnen wenn man ablehnt
+✅ Der Schicksalsring hält von alleine an
+✅ Levelanstieg anpassen --> sollte später schwerer werden
+❌ Zu lange Texte etwas kürzen
+
+Visuals verdeutlichen
+✅ Brüder brauchen eine Animation (Brüder sind Drachen)
+✅ Wer ist gerade am Zug?
+✅ Ranzoomen, damit man mehr sieht
+❌ Wieviel man getrunken hat -> raus!
+✅ Farben der Felder reduzieren
+❌ Color Coding – Farben für
+    - Wenn ein Skill zum Einsatz kommt
+    - Wenn ein Bruder kommt
+    - Wenn was negatives passiert (Schicksalsring, trinken, ..)
+    - Normale Sachen, Basics wie z.B. irgendein Text oder Tutorial
+✅ Wenn man eine Karte zieht, den Hintergrund ausblenden (wie beim Skillboard)
+✅ Strafen wurden erhöht muss deutlicher gemacht werden was es überhaupt sein soll
+❌ Nicht Spieler x schreiben sondern wirklich den Namen oder noch besser das Bild des Spielers
+✅ Bei der Charakterauswahl die Namen hinschreiben
+
+Sonstiges
+❌ Textfelder anpassen (Text hat oft nicht richtig reingepasst)
+✅ Extra Stardust von Skill muss angepasst werden (zu viel und das Window fehlt)
+❌ Tutorial
+❌ Wille raushauen aus dem Skillboard
+❌ Skillboard überarbeiten (Skill "Slow the Motion" muss raus)
+✅ Spacing bei den Karten reduzieren
+✅ Sounds der einzelnen Charaktere
+
+
+
+
+
+
+
+Was muss getan werden?
+-------------------------------------------------------------
+
+• Background Map
+    - refined zeichnen
+• MVP für die Brüder machen
+    // - Events umsetzen
+    - Animationen
+• Charaktere einfügen
+    - erstmal MVP
+    - dann refined versions
+// • EXP später schneller hochzählen
+• Battle Background für Kämpfe integrieren
+• Sounds und Musik
+• visuelle Effekte für Schnee, Wüste, Wind, etc..
+
+
+-------------------------------------------------------------
+
+
+• Konsistenz in den Bezeichnungen
+    - Gefährten, Spieler, Charaktere
+• Namen statt "Spieler x"
+
+
+
+
+
+
+
+
+Design
+• System Window im Skyrim Stil machen
+
+• Namen für alles ausdenken
+    - Städte
+    - Ebenen
+    - Wüsten
+    - Seen
+    - Meer
+    - Eiswüste
+    - Startstadt
+    - Brüder
+    - Dungeons
+    - Wälder
+    - Höhen
+    - Charaktere
+    - NPCs (Imperiumsheerleader, Wirt, ..)
+
+
+Code
+• Increase size of tiles and sprites and everything
+
+
+Art
+• Map Background zeichnen
+• Charaktere zeichnen
+
+
+
+SONSTIGE BUGS
+• Outcomes für Kämpfe
+    - Gewinner: EXP + Kohle
+    - Verlierer: Felder zurück oder saufen oder Kohle verlieren
+• Texte für zweiten Kartenstapel schreiben
+• EXP schneller hochzählen (gegen später)
+• Battle Background für Kämpfe
+
+
+
+
+
+
+
+
+
+PvP
+✅ Player wins
+✅ Enemy wins
+• Draw
+
+PvE
+• Player wins
+• Enemy wins
+✅ Draw
